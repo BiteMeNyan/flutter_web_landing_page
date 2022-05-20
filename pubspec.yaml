@@ -1,0 +1,46 @@
+name: empat_landing
+description: Empat landing page using Flutter web platform.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_bloc: ^8.0.1
+
+  #view
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.1.1
+  visibility_detector: ^0.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/partners/
+
+  fonts:
+    - family: Breul Grotesk
+      fonts:
+        - asset: fonts/BreulGroteskB-Light.ttf
+          weight: 400
+        - asset: fonts/BreulGroteskB-Regular.ttf
+          weight: 900
