@@ -1,16 +1,9 @@
-# empat_landing
+# Landing page created using Flutter
 
-Empat landing page using Flutter web platform.
+This project was created using flutter for web. It represents existing landing page of the site https://empat.tech/ .
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+Here is the demo of a landing page:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter_web_preview](https://user-images.githubusercontent.com/55760070/169598559-c7fcf9ef-1348-4f7d-8e50-344b40bad1e8.gif)
